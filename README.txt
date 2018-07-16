@@ -12,8 +12,5 @@ Bag-of-Words or the Skip-Gram neural network architectures. The user should to s
  - number of threads to use
  - the format of the output word vector file (text or binary)
 
-Usually, the other hyper-parameters such as the learning rate do not need to be tuned for different training sets. 
 
-The script demo-word.sh downloads a small (100MB) text corpus from the web, and trains a small word vector model. After the training
-is finished, the user can interactively explore the similarity of the words.
 
